@@ -1,7 +1,7 @@
 <h1 align="center"> HELLO EVERYONE!! 👋 </h1>
 
-- 👨‍💻 I'm a Front-end student 
-- 💪 I’m currently learning about HTML5, CSS3, JS, REACT and etc..
+- 👨‍💻 I'm a Full Stack student 
+- 💪 I’m currently learning about JS, Python, Flask  and etc..
 - 📨 How to reach me: thiago.m.developer@outlook.com
 
 
